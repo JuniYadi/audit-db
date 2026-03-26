@@ -97,3 +97,4 @@ sequenceDiagram
 - `docs/04-postgres-physical-design.md` — partitioning, indexing, retention, and security
 - `docs/05-rollout-plan.md` — phased implementation and rollout plan
 - `docs/06-sample-queries.md` — sample investigation and reporting queries
+- `docs/07-prd-gap-analysis.md` — mapping between the source PRD and the current audit DB design, including open design decisions
