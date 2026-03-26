@@ -98,3 +98,8 @@ sequenceDiagram
 - `docs/05-rollout-plan.md` — phased implementation and rollout plan
 - `docs/06-sample-queries.md` — sample investigation and reporting queries
 - `docs/07-prd-gap-analysis.md` — mapping between the source PRD and the current audit DB design, including open design decisions
+- `docs/08-event-taxonomy.md` — canonical audit event names, domains, and required fields
+- `docs/09-execution-metadata-model.md` — detailed execution-attempt metadata model for audit records
+- `docs/10-ddl-draft.md` — implementation-oriented PostgreSQL schema draft and DDL guidance
+- `docs/11-security-and-redaction-policy.md` — audit data masking, redaction, retention, and sensitive-field policy
+- `docs/12-service-ownership.md` — ownership map for audit event production and ingestion across services

@@ -86,7 +86,7 @@ Status: Covered for audit platform operations, not yet tied to product runtime e
 ### 1. Product internal schema versus audit schema
 The PRD includes a broad internal schema for:
 - tenants
-n- users
+- users
 - db_connections
 - user_db_permissions
 - query_whitelists
