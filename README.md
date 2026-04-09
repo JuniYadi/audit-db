@@ -103,3 +103,4 @@ sequenceDiagram
 - `docs/10-ddl-draft.md` — implementation-oriented PostgreSQL schema draft and DDL guidance
 - `docs/11-security-and-redaction-policy.md` — audit data masking, redaction, retention, and sensitive-field policy
 - `docs/12-service-ownership.md` — ownership map for audit event production and ingestion across services
+- `docs/13-implementation-phase-main-audit-system.md` — implementation-phase split for the simplified superadmin/team/user audit system
